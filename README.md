@@ -1,6 +1,6 @@
 # Portfolio
 ## Contacts
-> ymalk0503@gmail.com
+> ymalk0503@gmail.com · [Blog](https://jkelly.tistory.com/)
 ## 지원 직무
 > Backend Engineer
 ## 보유 역량 요약
