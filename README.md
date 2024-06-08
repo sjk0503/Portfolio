@@ -25,13 +25,13 @@
 #### 프로젝트 추천 및 구성원 추천 플랫폼 프로젝트
 + SwiftUI를 사용하여 사용자 친화적 UI 구성
 + http 프로토콜 통신 구축
-  <img width="200" alt="1 로그인" src = "https://github.com/sjk0503/Portfolio/assets/108213769/20f3e052-8282-4861-8211-b92dc32fa606">
-  <img width="200" alt="3 홈1" src="https://github.com/sjk0503/Portfolio/assets/108213769/70a791c1-ddbd-4964-b8c6-c8d1f8b9e3ea">
-  <img width="200" alt="4 내프젝" src="https://github.com/sjk0503/Portfolio/assets/108213769/e93fef17-ac94-48a4-837f-8995217c8c25">
-  <img width="200" alt="5 새프젝" src="https://github.com/sjk0503/Portfolio/assets/108213769/de4026af-63a3-4413-86dd-8813881b5e5d">
-  <img width="200" alt="5-2 새프젝" src="https://github.com/sjk0503/Portfolio/assets/108213769/cc686a8b-737b-425a-be72-beb161b0da07">
-  <img width="200" alt="6 모집" src="https://github.com/sjk0503/Portfolio/assets/108213769/4bf3309f-0ea0-4bac-bba2-248232d395d7">
-  <img width="200" alt="7 프로필" src="https://github.com/sjk0503/Portfolio/assets/108213769/ca0900f8-38ae-48bd-93e6-c787f64c8f80">
++ <img width="200" alt="1 로그인" src = "https://github.com/sjk0503/Portfolio/assets/108213769/20f3e052-8282-4861-8211-b92dc32fa606">
++ <img width="200" alt="3 홈1" src="https://github.com/sjk0503/Portfolio/assets/108213769/70a791c1-ddbd-4964-b8c6-c8d1f8b9e3ea">
++ <img width="200" alt="4 내프젝" src="https://github.com/sjk0503/Portfolio/assets/108213769/e93fef17-ac94-48a4-837f-8995217c8c25">
++ <img width="200" alt="5 새프젝" src="https://github.com/sjk0503/Portfolio/assets/108213769/de4026af-63a3-4413-86dd-8813881b5e5d">
++ <img width="200" alt="5-2 새프젝" src="https://github.com/sjk0503/Portfolio/assets/108213769/cc686a8b-737b-425a-be72-beb161b0da07">
++ <img width="200" alt="6 모집" src="https://github.com/sjk0503/Portfolio/assets/108213769/4bf3309f-0ea0-4bac-bba2-248232d395d7">
++ <img width="200" alt="7 프로필" src="https://github.com/sjk0503/Portfolio/assets/108213769/ca0900f8-38ae-48bd-93e6-c787f64c8f80">
 
 ## Education
 ### 동아대학교 / 컴퓨터공학과 학사 (2019.03 ~ 2025.02)
