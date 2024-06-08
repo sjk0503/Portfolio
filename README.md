@@ -24,7 +24,7 @@
 ### 팀 프로젝트(팀장) / [To-gather (23.09 ~ 23.12)](https://github.com/sjk0503/project-platform)
 #### 프로젝트 추천 및 구성원 추천 플랫폼 프로젝트
 + SwiftUI를 사용하여 사용자 친화적 UI 구성
-+ http 프로토콜 통신 구축
++ http 프로토콜 통신 구축</br>
   <img width="200" alt="1 로그인" src = "https://github.com/sjk0503/Portfolio/assets/108213769/20f3e052-8282-4861-8211-b92dc32fa606">
   <img width="200" alt="3 홈1" src="https://github.com/sjk0503/Portfolio/assets/108213769/70a791c1-ddbd-4964-b8c6-c8d1f8b9e3ea">
   <img width="200" alt="4 내프젝" src="https://github.com/sjk0503/Portfolio/assets/108213769/e93fef17-ac94-48a4-837f-8995217c8c25">
